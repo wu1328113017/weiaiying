@@ -6,7 +6,7 @@
     <author email="1328113017@qq.com" href="//qq.com">
         吴传逞
     </author>
-    <content src="../index.html" />
+    <content src="index.html" />
     <access origin="*" />
     <preference name="windowBackground" value="#FFF" />
     <permission name="call" />
